@@ -30,7 +30,18 @@
 
 ## 3. Полезные ссылки
 
+статьи обзорные по мультимодльаным RAG
+Lang Mei, Siyu Mo, Zhihan Yang, and Chong Chen. A survey of multimodal retrieval-augmented generation. arXiv
+preprint arXiv:2504.08748, 2025.
+
+Mohammad Mahdi Abootorabi, Amirhosein Zobeiri, Mahdi Dehghani, et al. Ask in any modality: A comprehensive
+survey on multimodal retrieval-augmented generation. arXiv preprint arXiv:2502.08826, 2025.
 
 
 ## 4. Итог
 Хорошая статья, четко подтверждает идею недостаточности структурности в вопросе проектирования MRAG. Дает полезные идеи по декомпозиции пайплана. Упомянуты вопрсоы обучения.
+
+
+## 5. Идеи
+- mrag few shot на малоиследованных комбинациях (картинка -> код)
+- обучение усрденения эмбедингов при фьюжене на симплексе

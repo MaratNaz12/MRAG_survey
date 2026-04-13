@@ -36,7 +36,7 @@
 | 34 |       Mrag-bench: Vision-centric evaluation for retrieval-augmented multimodal models   |        2024   |        45   |       ✅     |      |
 | 35 |       Retrieving multimodal information for augmented generation: A survey   |        2023   |       158    |           |      |
 | 36 |      Alzheimerrag: Multimodal retrieval augmented generation for pubmed articles    |       2024    |        19   |     ✅       |      |
-| 37 |       Visual RAG: Expanding MLLM visual knowledge without fine-tuning   |        2025   |     20      |           |      |
+| 37 |       Visual RAG: Expanding MLLM visual knowledge without fine-tuning   |        2025   |     20      |       ✅       |      |
 | 38 |     Multimodal Retrieval-Augmented Generation: Unified Information Processing Across Text, Image, Table, and Video Modalities     |      2025     |      8     |           |      |
 | 39 |        Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding  |      2025     |       5    |           |      |
 | 40 |       Multi-level information retrieval augmented generation for knowledge-based visual question answering   |    2024       |    17       |           |      |

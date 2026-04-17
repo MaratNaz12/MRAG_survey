@@ -37,14 +37,14 @@
 | 35 |       Retrieving multimodal information for augmented generation: A survey   |        2023   |       158    |           |      |
 | 36 |      Alzheimerrag: Multimodal retrieval augmented generation for pubmed articles    |       2024    |        19   |     ✅       |      |
 | 37 |       Visual RAG: Expanding MLLM visual knowledge without fine-tuning   |        2025   |     20      |       ✅       |      |
-| 38 |     Multimodal Retrieval-Augmented Generation: Unified Information Processing Across Text, Image, Table, and Video Modalities     |      2025     |      8     |           |      |
-| 39 |        Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding  |      2025     |       5    |           |      |
-| 40 |       Multi-level information retrieval augmented generation for knowledge-based visual question answering   |    2024       |    17       |           |      |
+| 38 |     Multimodal Retrieval-Augmented Generation: Unified Information Processing Across Text, Image, Table, and Video Modalities     |      2025     |      8     |     ▶▶        |    как парсить  |
+| 39 |        Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding  |      2025     |       5    |    ▶▶         |  парсинг пдф    |
+| 40 |       Multi-level information retrieval augmented generation for knowledge-based visual question answering   |    2024       |    17       |       ✅     |      |
 | 41 |      Wiki-llava: Hierarchical retrieval-augmented generation for multimodal llms    |     2024      |      129     |      ✅       |      |
-| 42 |         Echosight: Advancing visual-language models with wiki knowledge |      2024     |       63    |           |      |
-| 43 |        Rora-vlm: Robust retrieval-augmented vision language models  |     2024      |        32   |           |      |
+| 42 |         Echosight: Advancing visual-language models with wiki knowledge |      2024     |       63    |          ✅        |      |
+| 43 |        Rora-vlm: Robust retrieval-augmented vision language models  |     2024      |        32   |            ✅      |      |
 | 44 |        mRAG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA  |       2024    |      25     |           |      |
-| 45 |   Fine-grained late-interaction multi-modal retrieval for retrieval augmented visual question answering      |     2023      |   141        |           |      |
+| 45 |   Fine-grained late-interaction multi-modal retrieval for retrieval augmented visual question answering      |     2023      |   141        |         ✅     |      |
 | 46 |       Seeing beyond: Enhancing visual question answering with multi-modal retrieval   |       2025    |      7     |           |      |
 | 47 |        Vlm2vec: Training vision-language models for massive multimodal embedding tasks  |     2024      | 161          |           |    про инструкционные эмбединги!  |
 | 48 |    Uni-retrieval: A multi-style retrieval framework for stem's education      |     2025      |      17     |           |      |

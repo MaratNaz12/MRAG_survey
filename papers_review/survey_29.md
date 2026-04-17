@@ -1,4 +1,5 @@
-# Анализ обзорной статьи: Ask in Any ModalityA Comprehensive Survey on Multimodal Retrieval-Augmented Generation
+
+ # Анализ обзорной статьи: Ask in Any ModalityA Comprehensive Survey on Multimodal Retrieval-Augmented Generation
 
 **Авторы:** [ФИО авторов]  
 **Журнал:** 
@@ -30,7 +31,7 @@ retrieved image + entity description + retrieved texts.
 Очищенные visual tokens и retrieved texts подаются в backbone LLaVA-v1.5 как interleaved multimodal context. Нового специального адаптера типа Q-Former авторы не вводят; они используют обычный VLM-backbone с projection layer и улучшают именно retrieval и robustness.
 
 7. Что в итоге дает метод.
-По результатам статьи, этот пайплайн дает заметный прирост на OVEN, InfoSeek и Enc-VQA, улучшает retrieval precision, помогает лучше переживать шумный retrieval и дает неплохой zero-shot transfer на unseen domains. Авторы отдельно подчеркивают, что выигрывает именно связка: двухшаговый retrieval + noise robustness + visual token refinement..
+По результатам статьи, этот пайплайн дает заметный прирост на OVEN, InfoSeek и Enc-VQA, улучшает retrieval precision, помогает лучше переживать шумный retrieval и дает неплохой zero-shot transfer на unseen domains. Авторы отдельно подчеркивают, что выигрывает именно связка: двухшаговый retrieval + noise robustness + visual token refinement.
 
 ## 2. Бенчмарки, датасеты 
 
@@ -39,6 +40,14 @@ retrieved image + entity description + retrieved texts.
 
 
 ## 4. Итог
+использют двух этапный retirever, сначала чисто картинки по cLIP, потом реракнинг по BLIP-2
 
-очень похожа на 5 статью
+
+
+
+
+
+
+
+
 
